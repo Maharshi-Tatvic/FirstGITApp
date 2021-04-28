@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "258665416518",
+    "project_id": "traning-project-7e62d",
+    "storage_bucket": "traning-project-7e62d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258665416518:android:d8019b764b0639fdddc747",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258665416518-ob94cr3g4cdvujcu113em7ud97cu72p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhnnFGIWvuZLtPP58OC4t6Y-uCwt4Unms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258665416518-ob94cr3g4cdvujcu113em7ud97cu72p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258665416518:android:72e1226c0bfb135addc747",
+        "android_client_info": {
+          "package_name": "com.tatvic.hitdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258665416518-ob94cr3g4cdvujcu113em7ud97cu72p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhnnFGIWvuZLtPP58OC4t6Y-uCwt4Unms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258665416518-ob94cr3g4cdvujcu113em7ud97cu72p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
